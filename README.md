@@ -1,3 +1,6 @@
+## Link to see the application
+https://ravi-kushwah.github.io/corona-track/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
